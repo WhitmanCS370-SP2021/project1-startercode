@@ -18,7 +18,7 @@ import javafx.stage.Stage;
  * @author Put your partner's name here!
  * @since January 26, 2017
  */
-public class ScalePlayer extends Application {
+public class Main extends Application {
     
     @Override
     public void start(Stage primaryStage) {
