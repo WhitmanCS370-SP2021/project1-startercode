@@ -1,6 +1,3 @@
-/*
- * CS 300-A, 2017S
- */
 package scaleplayer;
 
 import javafx.application.Application;
@@ -25,7 +22,6 @@ public class Main extends Application {
         Button btn = new Button();
         btn.setText("Say 'Hello World'");
         btn.setOnAction(new EventHandler<ActionEvent>() {
-            
             @Override
             public void handle(ActionEvent event) {
                 System.out.println("Hello World!");
